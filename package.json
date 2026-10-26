@@ -1,0 +1,1 @@
+{"name":"beitun-guava-school","version":"1.0.0","private":true,"description":"給北屯芭樂攤的 LINE 熟客經營學堂","scripts":{"start":"python3 -m http.server 3000 --bind 0.0.0.0","test":"node --check app.js"}}
